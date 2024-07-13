@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>beagle image</title>
+</head>
+<body>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        .trivia {
+            margin-top: 20px;
+        }
+        .trivia h2 {
+            color: #444;
+        }
+        .trivia ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .trivia li {
+            margin-bottom: 10px;
+        }
+        .images {
+            margin-top: 20px;
+        }
+        .images img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+    <section>
+    <div style="border:2px solid rgb(23, 23, 23)">
+    <h1><u>The Beagle Blog</u></h1>
+    <p>
+
+        The <b>Beagle </b>is a breed of small scent hound, similar in appearance to the much larger foxhound. Theb<i><b> beagle</b></i> was developed primarily for hunting hare, known as beagling. Possessing a great sense of smell and superior tracking instincts, the <i><b>beagle</b></i> is the primary breed used as a detection dog for prohibited agricultural imports and foodstuffs in quarantine around the world. The <i><b> beagle</b></i> is intelligent and is a popular pet due to its size, good temper, and a lack of inherited health problems.
+        
+    </p>
+    <u>Read More</u>
+</div>
+<div>
+   <h1> <u>image</u></h1>
+    <img src="https://i.insider.com/5484d9d1eab8ea3017b17e29"width=200px;height=200px; alt="">
+    <a href="https://th.bing.com/th/id/R.371c1e58a45a6a5e975400a1d20df713?rik=Ls4DFJ39aV3m%2fg&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f34300000%2fDogs-dogs-34382794-1918-1396.jpg&ehk=ezXoFb0KqKQmtrtYTeenKFzYQDoHwsXCHaJsq6z%2fkqM%3d&risl=&pid=ImgRaw&r=0"><br>more image</a>
+</div>
+<div style="border: 2px;black">
+    <h2><u>Trivia</u></h2>
+    <ol>
+        <li>Height	13–16 in (33–41 cm)</li>
+        <li>Weight	Males	22–25 lb (10.0–11.3 kg 	Females	20–23 lb (9.1–10.4 kg)</li>
+        <li>Coat	Short haired, hard coat of medium length</li>
+        <li>Colour	Tricolor or white in combination with black & tan/brown or brown/tan or yellow/white</li>
+        <li>Life span	12.5 years</li>
+        
+    </ol>
+</div>
+</section>
+</body>
+</html>
